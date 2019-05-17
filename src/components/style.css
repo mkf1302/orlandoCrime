@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    margin: auto;
+}
+
+
+div.PoliceCar {
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+  
+  
+  .PoliceCar * {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .PoliceCar h1{
+    color: white;
+  }
+  
+  .PoliceCar h1 {
+    font-size: 90px;
+    padding-top: 30%;
+    
+  }
+
+  div.form-group {
+      color: white;
+      width: 100%;
+  }
+
